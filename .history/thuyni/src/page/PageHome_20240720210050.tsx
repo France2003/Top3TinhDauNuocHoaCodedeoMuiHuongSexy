@@ -36,7 +36,7 @@ const PageHome = () => {
                     một mùi hương đặc biệt. Sử dụng Good girl bạn sẽ cảm nhận được sự mê hoặc, cuốn hút của nó và dẫn dắt vào một thế giới đầy sự lôi
                     cuốn, bí ẩn.</p>
             </div>
-            <div className=' mx-9 mt-8'>
+            <div className='mt-8'>
                 <p className='mb-5'><b>Xem thêm: </b><a className='underline text-blue-500 text-[17px]' href="https://codedeco.art/danh-muc/mui-huong-cho-nam/">MÙI HƯƠNG CHO NAM</a></p>
                 <p><b>Xem thêm: </b><a className='underline text-blue-500 text-[17px]' href="https://codedeco.art/danh-muc/mui-huong-cho-nu/">MÙI HƯƠNG CHO NỮ</a></p>
             </div>
