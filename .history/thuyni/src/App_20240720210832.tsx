@@ -10,7 +10,7 @@ function App() {
     <div className='container'>
       <BrowserRouter>
         <Routes>
-          <Route path='/Top3TinhDauNuocHoaCodedeoMuiHuongSexy/' element={<LayoutClient />}>
+          <Route path='/ThuyNi/' element={<LayoutClient />}>
             <Route index element={<PageHome />} />
           </Route>
         </Routes>
